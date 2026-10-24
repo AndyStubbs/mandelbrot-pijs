@@ -4,7 +4,7 @@ An interactive Mandelbrot set explorer built with [PiJS](https://pijs.org/).
 
 ## Try Online
 
-Link: https://andyswebgames.com/apps/mandelbrot2/
+Link: https://classic.andyswebgames.com/apps/mandelbrot2/
 
 ## Run
 
